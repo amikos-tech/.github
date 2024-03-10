@@ -1,1 +1,3 @@
-# .github
+# Amikos
+
+Welcome!
