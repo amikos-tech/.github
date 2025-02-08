@@ -3,6 +3,7 @@
 Welcome, stranger!
 
 Our latest articles:
+- [Maintaining Your Vector Database: Introducing Chroma Ops](https://medium.com/@amikostech/maintaining-your-vector-database-introducing-chroma-ops-ae651edfe4ad?sk=ff68846084ea169d1389153e48329db3)
 - [Chroma Daily DevLog: Rerankers](https://medium.com/@amikostech/chroma-daily-devlog-rerankers-a11eae856113?sk=8453ebdbb88d289af970a8d360aedc98)
 - [Implementing Multi-Tenancy in Chroma: Part 3 — Practical Authorization](https://medium.com/@amikostech/implementing-multi-tenancy-in-chroma-part-3-practical-authorization-7839ccaebbb9)
 - [Implementing Multi-Tenancy in Chroma: Part 2 — Authorization Model with OpenFGA](https://medium.com/@amikostech/implementing-multi-tenancy-in-chroma-part-2-authorization-model-with-openfga-7ee34297c5c1)
